@@ -84,8 +84,7 @@ Displays how employees are distributed across different **age groups**, helping 
 
 | File | Description |
 |-----|-------------|
-| HR_Analytics_Dashboard.twbx | Tableau packaged workbook containing the dashboard |
-
+| [Tableau Dashboard.twbx](./Tableau%20Dashboard.twbx) | Tableau packaged workbook containing the dashboard |
 ---
 
 ## 💡 Business Value
@@ -114,7 +113,7 @@ Potential future enhancements include:
 ## 🧑‍💻 Author
 
 **MD Hujaifa**  
-Data Analyst | Data Visualization | HR Analytics
+Data Analyst | Excel | Power Query (ETL) | Power BI | SQL | Python | Statistics | AI & Data Analytics
 
 ---
 
