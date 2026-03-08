@@ -1,0 +1,2 @@
+# Tableau-HR-Analytics-Dashboard-Employee-Attrition---Workforce-Insights
+This project presents an interactive HR Analytics Dashboard built using Tableau to analyze employee attrition patterns, workforce demographics, and job satisfaction trends.  The dashboard helps HR teams understand why employees leave the organization and which groups are most affected, enabling better data-driven HR decisions
