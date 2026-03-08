@@ -10,7 +10,7 @@ By transforming HR data into meaningful visual insights, this dashboard highligh
 
 # 📷 Dashboard Preview
 
-![HR Analytics Dashboard](dashboard.png)
+![HR Analytics Dashboard](Dashboard Image.png)
 
 ---
 
